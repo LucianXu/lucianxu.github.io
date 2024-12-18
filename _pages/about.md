@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in School of Mathematical Science, Beijing Normal University, advised by [Yongqiang Cai](https://scholar.google.com/citations?user=Er2aPkcAAAAJ&hl=en).
+I am a master student in School of Mathematical Science, Beijing Normal University, advised by [Dr.Yongqiang Cai](https://scholar.google.com/citations?user=Er2aPkcAAAAJ&hl=en).
